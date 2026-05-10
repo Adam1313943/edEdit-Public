@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用說明 / Usage Documentation
+    url: https://github.com/Adam1313943/edEdit-Public#documentation
+    about: 在開 issue 前，可能你的問題已在文件裡有答案 / Your question might already be answered in the docs.
+  - name: 隱私問題 / Privacy concerns
+    url: https://github.com/Adam1313943/edEdit-Public/blob/main/PRIVACY.md
+    about: 我們對隱私的處理方式 / How we handle privacy.
