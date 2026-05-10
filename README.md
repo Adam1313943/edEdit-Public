@@ -55,7 +55,32 @@ A native text editor for Mac and iPhone/iPad that brings notes, Markdown, and so
 
 ## 下載 · Download
 
-App Store 連結待補。<!-- TODO: 上架後填上 -->
+### 🖥️ macOS（免費 / Free）
+
+從 [Releases 頁面](https://github.com/Adam1313943/edEdit-Public/releases/latest) 下載最新版 `.dmg`：
+
+[**↓ 下載 edEdit for macOS（最新版）**](https://github.com/Adam1313943/edEdit-Public/releases/latest)
+
+- 已 Developer ID 簽署 + Apple 公證（無 Gatekeeper 警告）
+- Universal Binary（Apple Silicon + Intel）
+- macOS 12.0 以上
+- 完全免費，無廣告、無追蹤、無 IAP
+
+**安裝方式 / Installation**
+
+1. 點上方連結下載 `edEdit-x.x.dmg`
+2. 雙擊掛載，把 **edEdit** 拖入 **Applications** 資料夾
+3. 從 Launchpad 或 Spotlight 啟動
+
+```
+Click the link above → mount the .dmg → drag edEdit into Applications → launch.
+```
+
+### 📱 iOS / iPadOS
+
+[**↓ 從 App Store 下載**](https://apps.apple.com/app/eded)<!-- TODO: 上架後換成正式連結 -->
+
+iOS 版有額外的「筆記」功能與 iCloud 跨裝置同步，採付費 IAP 解鎖進階功能（無限筆記、跨檔搜尋、檔案比較）。詳見 [文件](docs/getting-started.md)。
 
 ---
 
