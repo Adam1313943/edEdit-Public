@@ -78,7 +78,7 @@ Click the link above → mount the .dmg → drag edEdit into Applications → la
 
 ### 📱 iOS / iPadOS
 
-[**↓ 從 App Store 下載**](https://apps.apple.com/app/eded)<!-- TODO: 上架後換成正式連結 -->
+[**↓ 從 App Store 下載**](https://apps.apple.com/us/app/ededit-markdown-notes/id6768040560)
 
 iOS 版有額外的「筆記」功能與 iCloud 跨裝置同步，採付費 IAP 解鎖進階功能（無限筆記、跨檔搜尋、檔案比較）。詳見 [文件](docs/getting-started.md)。
 
